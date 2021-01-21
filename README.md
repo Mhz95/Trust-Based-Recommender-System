@@ -34,7 +34,7 @@ pip install sklearn
 <img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/main/scrn2.png" width="500">
 
 
-> Developed as part of   
-> Course CSC590: Selected topics in computer applications   
+> Developed as part of course   
+> CSC590: Selected topics in computer applications   
 > King Saud university   
 > Supervised by: Dr. Hafida Benhidour  
