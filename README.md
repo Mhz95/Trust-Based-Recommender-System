@@ -21,7 +21,7 @@ pip install sklearn
 5-	Run again.   
 6-	The following window should appear:   
 
-<img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/master/scrn.png" width="500">
+<img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/main/scrn.png" width="500">
  
  
 7-	Browse and select RS_Dataset folder, Set Review_sample, Trust_sample and Similarity sample files.  
@@ -31,6 +31,10 @@ pip install sklearn
 11-	Predict Ratings.  
 12-	Evaluate System, it will show the evaluation metrics results i.e MAE, MSE, RMSE. Also, it will show a comparison of the top 10 recommended items for both real and predicted ratings.  
 
-<img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/master/scrn2.png" width="500">
+<img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/main/scrn2.png" width="500">
 
 
+> Developed as part of 
+> Course CSC590: Selected topics in computer applications
+> King Saud university
+> Supervised by: Dr. Hafida Benhidour
