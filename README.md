@@ -31,10 +31,10 @@ pip install sklearn
 11-	Predict Ratings.  
 12-	Evaluate System, it will show the evaluation metrics results i.e MAE, MSE, RMSE. Also, it will show a comparison of the top 10 recommended items for both real and predicted ratings.  
 
-<img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/main/scrn2.png" width="500">
+<img src="https://github.com/Mhz95/Trust-Based-Recommender-System/blob/main/scrn2.png" width="500">   
 
 
-> Developed as part of course   
-> CSC590: Selected topics in computer applications   
+> Developed as part of a Computer Science MSc course   
+> Supervisor: Dr. Hafida Benhidour  
+> Course: CSC590: Selected topics in computer applications   
 > King Saud university   
-> Supervised by: Dr. Hafida Benhidour  
