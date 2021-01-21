@@ -38,3 +38,4 @@ pip install sklearn
 > Supervisor: Dr. Hafida Benhidour  
 > Course: CSC590: Selected topics in computer applications   
 > King Saud university   
+> November 2020
